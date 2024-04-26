@@ -1,0 +1,29 @@
+[
+    {
+        "nomeProduto": "Eos V-Neck Hoodie",
+        "tamanho": "XS",
+        "cor": "Orange",
+        "quantidade": 3
+    },
+
+    {
+        "nomeProduto": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho": "M",
+        "cor": "Red",
+        "quantidade": 4
+    },
+
+    {
+        "nomeProduto": "Augusta Pullover Jacket",
+        "tamanho": "L",
+        "cor": "Blue",
+        "quantidade": 3
+    },
+
+    {
+        "nomeProduto": "Ingrid Running Jacket",
+        "tamanho": "L",
+        "cor": "Red",
+        "quantidade": 3
+    }
+]
