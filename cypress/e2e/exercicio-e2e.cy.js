@@ -52,7 +52,7 @@ context('Exercicio - Testes End-to-end - Fluxo de pedido', () => {
         cy.get('.dropdown-toggle > .text-skin > .icon-basket').click()
         cy.get('#cart > .dropdown-menu > .widget_shopping_cart_content > .mini_cart_content > .mini_cart_inner > .mcart-border > .buttons > .checkout').click()
          // Preenchendo o formulário usando comandos customizados
-         cy.formularioCheckout('Itnã', 'Santana', 'Rua do piriquito', 'Salvador', '40020-680', '7199308-5996')
+        cy.formularioCheckout('Itnã', 'Santana', 'Rua do piriquito', 'Salvador', '40020-680', '7199308-5996')
         cy.get('#payment_method_cod').click()
         cy.get('#terms').click()
 
